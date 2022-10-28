@@ -1,0 +1,148 @@
+{
+    "asset": {
+        "assetContract": {
+            "address": "5CMStp6FsUNjU78d9ET5VswnHkMtHR7rUCQQEmFBRNLUsqTL",
+            "buyerFeeBasisPoints": 0,
+            "description": null,
+            "devBuyerFeeBasisPoints": 0,
+            "devSellerFeeBasisPoints": 0,
+            "externalLink": null,
+            "imageUrl": null,
+            "name": "Minic0inz",
+            "openseaBuyerFeeBasisPoints": 0,
+            "openseaSellerFeeBasisPoints": 250,
+            "schemaName": "ERC721",
+            "sellerFeeBasisPoints": 250,
+            "tokenSymbol": "MCZ",
+            "type": "non-fungible",
+            "wikiLink": ""
+        },
+        "backgroundColor": null,
+        "buyOrders": null,
+        "collection": {
+            "createdDate": "2022-01-31T01: 40: 17.033Z",
+            "description": null,
+            "devBuyerFeeBasisPoints": 0,
+            "devSellerFeeBasisPoints": 0,
+            "displayData": {
+                "card_display_style": "contain",
+                "images": []
+            },
+            "editors": "",
+            "externalLink": null,
+            "featured": false,
+            "featuredImageUrl": null,
+            "hidden": false,
+            "imageUrl": null,
+            "largeImageUrl": null,
+            "name": "Minic0inz - ArqDAVGWI2",
+            "openseaBuyerFeeBasisPoints": 0,
+            "openseaSellerFeeBasisPoints": 250,
+            "paymentTokens": [],
+            "payoutAddress": null,
+            "slug": "minic0inz-arqdavgwi2",
+            "stats": "",
+            "traitStats": "",
+            "wikiLink": null
+        },
+        "description": "['Minic0inz is a fun set of generative art collectables styled in the spirit of Cryptopunks.  Each of the Minic0inz is unique, with a distinct style, name, denomination and Country of Origin.  Join the craze, be a part of something -smaller-, collect your Minic0inz today!  When you purchase this option, you will receive eight freshly minted NFTs from the Minic0inz collection!  Image shown is a placeholder. The actual designs and stats will be revealed after purchase.']",
+        "externalLink": "http://api.c0inz.com/api/factory/minic0inz/2",
+        "imagePreviewUrl": "https://lh3.googleusercontent.com/bjT3jlppqW0gnJBnIXaONH5oMZeJ1NyUqEcdebpJo8LSWTzrDWQM_KipUSnhU5s90ceOae0rTEJ-KVOYU31v9cuOb1omj8pkN8kgshs=s250",
+        "imageUrl": "https://lh3.googleusercontent.com/bjT3jlppqW0gnJBnIXaONH5oMZeJ1NyUqEcdebpJo8LSWTzrDWQM_KipUSnhU5s90ceOae0rTEJ-KVOYU31v9cuOb1omj8pkN8kgshs=s250",
+        "imageUrlOriginal": "https://ipfs.io/ipfs/QmNMk2RDY6tPpJFKGnbLXCQgCviUwuxHdmd45gB24bXVCM",
+        "imageUrlThumbnail": "https://lh3.googleusercontent.com/bjT3jlppqW0gnJBnIXaONH5oMZeJ1NyUqEcdebpJo8LSWTzrDWQM_KipUSnhU5s90ceOae0rTEJ-KVOYU31v9cuOb1omj8pkN8kgshs=s128",
+        "isPresale": "",
+        "lastSale": null,
+        "name": "Eight Minic0inz",
+        "numSales": 0,
+        "openseaLink": "https://testnets.opensea.io/assets/5DghaCqZ1zrx6hN8oGFWXLzrB6m2wV1CLLyWLHovdCrsu5W2/2",
+        "orders": null,
+        "owner": {
+            "address": "0xf70d79db1997ca11782a9ff70cad401610976216",
+            "config": "",
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/16.png",
+            "user": {
+                "username": "c0inzdotTEST"
+            }
+        },
+        "sellOrders": null,
+        "tokenAddress": "5CMStp6FsUNjU78d9ET5VswnHkMtHR7rUCQQEmFBRNLUsqTL",
+        "tokenId": "2",
+        "traits": "",
+        "transferFee": null,
+        "transferFeePaymentToken": null
+    },
+    "assetBundle": "",
+    "basePrice": "50000000000000000",
+    "calldata": "0x23b872dd000000000000000000000000f70d79db1997ca11782a9ff70cad40161097621600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002",
+    "cancelledOrFinalized": false,
+    "createdTime": "1643617386",
+    "currentBounty": "500000000000000",
+    "currentPrice": "50000000000000000",
+    "exchange": "5DghaCqZ1zrx6hN8oGFWXLzrB6m2wV1CLLyWLHovdCrsu5W2",
+    "expirationTime": 0,
+    "extra": "0",
+    "feeMethod": 1,
+    "feeRecipient": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+    "feeRecipientAccount": {
+        "address": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+        "config": "",
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+        "user": {
+            "username": null
+        }
+    },
+    "hash": "0xa6aaabbfdbaa48d2509efc2e1883ce8b4ae3583bacd0387b4705b9341eb11c22",
+    "howToCall": 0,
+    "listingTime": 1643617284,
+    "maker": "5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty",
+    "makerAccount": {
+        "address": "5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty",
+        "config": "",
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/16.png",
+        "user": {
+            "username": "c0inzdotTEST"
+        }
+    },
+    "makerProtocolFee": "2",
+    "makerReferrerFee": "0",
+    "makerRelayerFee": "250",
+    "markedInvalid": false,
+    "metadata": {
+        "asset": {
+            "address": "5ESMmyRckEmHguGJBJGeywWThWF6stqhrSnXJv4Qk5ZE7jbV",
+            "id": "2"
+        },
+        "schema": "ERC721"
+    },
+    "paymentToken": "5F3WvKapwKVbgqCbtMRqYzr9obbDAje4H887cpw1ZqLcybN2",
+    "paymentTokenContract": {
+        "address": "5F3WvKapwKVbgqCbtMRqYzr9obbDAje4H887cpw1ZqLcybN2",
+        "decimals": 18,
+        "ethPrice": "1.000000000000000",
+        "imageUrl": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+        "name": null,
+        "symbol": "ETH",
+        "usdPrice": "405.649999999999977263"
+    },
+    "quantity": "1",
+    "replacementPattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000",
+    "saleKind": 0,
+    "salt": "0",
+    "side": 1,
+    "staticExtradata": "",
+    "staticTarget": "5DghaCqZ1zrx6hN8oGFWXLzrB6m2wV1CLLyWLHovdCrsu5W2",
+    "taker": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+    "takerAccount": {
+        "address": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+        "config": "",
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "user": {
+            "username": "NullAddress"
+        }
+    },
+    "takerProtocolFee": "2",
+    "takerRelayerFee": "0",
+    "target": "5HjfpJY1udFo143xVCoGwd2zVB5N4brbySru2yzVfTGy6x9f",
+    "waitingForBestCounterOrder": false
+}
